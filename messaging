@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zebu Messenger</title>
+<meta name="description" content="">
+<meta name="keywords" content="software, enterprise, security, encryption, sms, instant messaging, slack, erp, end to end, connect, zebu, secure, cloud, free">
+<meta name="author" content="Zebu Infrastructure online">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon">
+</head>
+
+<body>
+<!--Navigation bar-->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand" href="https://www.zebu.io/"><img src="img/zebu_logo.png" height="30px" width="auto" alt="zebu logo"></a> </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="messaging">Messenger</a></li>
+        <li><a href="storage">File Storage</a></li>
+        <li><a href="calendar">Calendar</a></li>
+        <!--        <li><a href="security">Security</a></li>
+-->
+        <li><a href="download">Downloads</a></li>
+        <li><a href="https://signup.zebu.io/signin" style=" color: #2661A8;">Sign in &rarr;</a></li>
+        <li class="btn-trial "><a href="https://signup.zebu.io/register">Register</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--/ Navigation bar--> 
+
+<!--Banner-->
+<div id="particles-js" class="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-sm-12">
+        <div class="banner-text ">
+          <div class=" wow fadeInDown">
+            <h1 class="text_white">The Place for Secure Team Communications. </h1>
+          </div>
+          <div class=" wow fadeInUp"  data-wow-delay="0.4s" >
+            <p class="text_white">For businesses of all sizes who realize the importance of keeping their work processes, client project information, and conversations about intellectual property safe, at all times. </p>
+            <p class="text_white"><strong>Free for as long as you want.</strong></p>
+          </div>
+          <div class="banner-2-form ">
+            <form onsubmit="return postToSignup('exampleInputEmail1')" id="workshop-newsletter-form">
+              <div class="col-lg-9 col-sm-12 top-email-input">
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your work Email Here">
+              </div>
+              <div class="col-lg-3 col-sm-12 top-email-btn">
+                <input href="javascript:;" onclick="postToSignup('exampleInputEmail1')"  class="banner-2-form-submit-btn btn" value="Get started for FREE" type="submit">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <img class=" img-respnsive banner-image" src="img/banner.png" alt="safe and secure"> 
+      
+      <!--   <a href="#feature" class="mouse-hover">
+              <div class="mouse"></div>
+            </a>--> 
+    </div>
+  </div>
+</div>
+<!--/ Banner--> 
+
+<!-- SECTIONS -->
+
+<section id="about" class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-sm-12">
+        <div class=" wow fadeInDown " data-wow-delay="0.9s">
+          <h2 class="">Email is Endangering your Security</h2>
+        </div>
+        <div class=" wow fadeInUp " data-wow-delay="1.0s">
+          <p class="align">Email is notorious for being one of the least secure methods of communication across the internet. Email compromises are extremely common, and nearly all email providers such as Gmail and Outlook are scanning and accessing content held within emails. Zebu uses military grade encryption across the entire platform to protect your team's work. End-to-end, no knowledge encryption solution ensures that no one (not even us), nor the government or hackers can get your data.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<img src="img/cellphone-zb.png" alt="cellphone" class="cellphone center-block img-responsive">
+<section class="section-padding banner">
+  <svg id="curve_up" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M-108-178.14V-626.68l3.29-1.24C273.91-745.42,549-433.27,638.64-356.18,728.58-278.8,1051.19-79.89,1449-306s658.18,0,658.18,0v127.84Z" transform="translate(108.01 654.07)"/>
+  </svg>
+  <div class="container secure_convo">
+    <div class="row">
+      <div class="col-lg-6">
+        <div class=" wow fadeInLeft "> <img class="img-responsive " src="img/screen1.png" alt="safe and secure"> </div>
+      </div>
+      <div class="col-lg-5 ">
+        <div class=" wow fadeInDown ">
+          <h2 class="text_white">Secure Client Conversations </h2>
+        </div>
+        <div class=" wow fadeInUp ">
+          <p class="text_white">Send any message safely and securely internally between teams and clients. All messages are encrypted even before they are sent. Having fully encrypted communication means that you can tell your clients that their projects are safe with you. <a href="security" class="lgreytxt">Learn more about Zebu security &rarr;</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 x_space2">
+        <div class=" wow fadeInDown ">
+          <h2 >Even Files are Encrypted</h2>
+        </div>
+        <div class=" wow fadeInUp ">
+          <p>Not only do we encrypt your messages, but also encrypt every file and media you send within your conversations. Nothing you send in Zebu leaves your computer before being fully secured. With Zebu, the only people who can access sent files are the ones you sent them to. <a href="security">Learn more about Zebu security &rarr;</a></p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class=" wow fadeInRight one"> <img class="img-responsive " src="img/screen2.gif" alt="safe and secure"> </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding banner">
+  <svg id="curve_down1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M2215.18,0V448.54l-3.29,1.23C1833.26,567.28,1558.18,255.13,1468.53,178,1378.59,100.65,1056-98.25,658.18,127.88S0,127.84,0,127.84V0Z"/>
+  </svg>
+  <svg id="curve_up2" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M-108-178.14V-626.68l3.29-1.24C273.91-745.42,549-433.27,638.64-356.18,728.58-278.8,1051.19-79.89,1449-306s658.18,0,658.18,0v127.84Z" transform="translate(108.01 654.07)"/>
+  </svg>
+  <div class="container no_open" >
+    <div class="row">
+      <div class="col-lg-6">
+        <div class=" wow fadeInLeft one"> <img class="img-responsive " src="img/screen3.gif" alt="safe and secure"></div>
+      </div>
+      <div class="col-lg-6 x_space">
+        <div class=" wow fadeInDown  one">
+          <h2 class="text_white">Can’t be Opened by Us </h2>
+        </div>
+        <div class=" wow fadeInUp one">
+          <p class="text_white">Unfortunately, while big tech giants might encrypt messages between you and someone else, they are often able to read the message themselves still. Meaning your chat provider has unlimited access to your communications data for learning, analysis, and even sharing with third parties. Zebu’s encryption ensures you're protected even against us, so you know your data will never be sold off. <a href="security" class="lgreytxt" >Learn more about Zebu security &rarr;</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding bg_light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 x_space3">
+        <div class=" wow fadeInDown ">
+          <h2>Security for your Team and Beyond</h2>
+        </div>
+        <div class=" wow fadeInUp ">
+          <p>Most team messaging systems only cover internal communication, which means you still need to rely on email for most outgoing communication. Zebu offers <em>external connections;</em> a simple way to continue having secure discussions and file transfer beyond your team. Now you can stop using email for sensitive outgoing information and ensure its protected with Zebu!</p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class=" wow fadeInRight "> <img class="img-responsive center-block" src="img/screen4.png" alt="safe and secure"> </div>
+      </div>
+    </div>
+  </div>
+  <svg id="round_top" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 166">
+    <path class="cls-1" d="M1440,98.12V166H0V98.42C206.15,36.25,453.94,0,720.5,0,986.63,0,1234.05,36.13,1440,98.12Z"/>
+    <line class="cls-2" y1="166" y2="98.42"/>
+  </svg>
+</section>
+
+<!--		-->
+
+<section class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class=" wow fadeInDown  ">
+          <h2>The Easiest Way to Communicate </h2>
+        </div>
+        <div class=" wow fadeInUp ">
+          <p>Connect allows you to easily onboard your entire organization as well as collaborate with people outside of it. </p>
+        </div>
+      </div>
+    </div>
+    <div  class="col-lg-12 center-block">
+      <div class=" wow fadeInRight one"> <img class="img-responsive" src="img/screen5.png" alt="connect app gif"> </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding ">
+  <div class="container">
+    <div class=" wow fadeInDown  ">
+      <h2>Packed with Features! </h2>
+    </div>
+    <div class="row m1">
+      <div class="col-lg-6 ">
+        <div class=" wow fadeInDown "> <img src="img/z_sheild_icon.png"  height="70px" alt="sheild icon">
+          <h4>Chats, Groups, Discussions</h4>
+          <p>No matter the needs of your discussion Zebu has a solution for you! Need to talk just 1 on 1? We have Chats! Need a group conversation? We have Groups! Want to have an open discussion? We have Channels! </p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class=" wow fadeInDown "> <img src="img/comments_icon.png"  height="70px" alt="comments icon">
+          <h4>Comments</h4>
+          <p>In large discussions there can be more than 1 topic being discussed at a time, With comments, our threaded conversations allow your team to  effectively communicate without getting lost.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row m1">
+      <div class="col-lg-6">
+        <div class=" wow fadeInDown "> <img src="img/search_icon.png"  height="70px" alt="search icon">
+          <h4>Advanced Search </h4>
+          <p>It has never been easier to find messages and files from your history! Search by keyword, date or conversation, and get the information you need at anytime! </p>
+        </div>
+      </div>
+      <div class="col-lg-6 ">
+        <div class=" wow fadeInDown "> <img src="img/reaction_icon.png"  height="70px" alt="reaction icon">
+          <h4> Reactions</h4>
+          <p>Sometimes words aren’t enough, that’s why we have emojis! Not only can you express yourself using them, but you can even add them as reactions to other messages! </p>
+        </div>
+      </div>
+    </div>
+    <div class="row m1">
+      <div class="col-lg-6 ">
+        <div class=" wow fadeInDown "> <img src="img/bookmark_icon.png"  height="70px" alt="bookmark icon">
+          <h4> Bookmarks</h4>
+          <p>Have an important message you need to get to later? Just click to bookmark it and now it's reachable when you need it! </p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class=" wow fadeInDown "> <img src="img/polling_icon.png"  height="70px" alt="polling icon">
+          <h4>Polling</h4>
+          <p>Need to gather feedback from the team? Find the best meeting time? Pick a place to eat? With Zebu’s polling it's easier than ever; in just a few clicks you can send out a poll for your team to vote and get you the information you need. </p>
+        </div>
+      </div>
+    </div>
+    <div class="row m1">
+      <div class="col-lg-6">
+        <div class=" wow fadeInDown "> <img src="img/font_icon.png"  height="70px" alt="font icon">
+          <h4>Text Styling </h4>
+          <p>Customize your message with our text editing feature! Bold, italic, underline, color fonts, and more!</p>
+        </div>
+      </div>
+      <div class="col-lg-6 ">
+        <div class=" wow fadeInDown "> <img src="img/code_icon.png"  height="70px" alt="code icon">
+          <h4>Code Snippets</h4>
+          <p>Developers can collaborate with our built-in code snippet system, supporting more than 20 languages! </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!--Cta-->
+<section id="cta-2" class=" section-padding banner">
+  <svg id="curve_down" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2300.96 553.46">
+    <defs>
+      <style>
+.cls-1{fill:#fff;}
+</style>
+    </defs>
+    <title>Group</title>
+    <path class="cls-1" d="M2193-698.8v553.44c-275.48-57.72-471.19-274-549.19-341.07C1536.48-578.74,1151.64-816,677.12-546.27s-785.13,0-785.13,0V-698.81Z" transform="translate(108.01 698.81)"/>
+  </svg>
+  <div class="container subscribe">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class=" wow fadeInDown"  data-wow-delay="0.1s">
+          <h2 class="text_white text-center">Access Zebu at Anytime and Anywhere!</h2>
+        </div>
+        <div class=" wow fadeInUp" data-wow-delay="0.3s">
+          <p class="text_white text-center cta-2-txt">With support for Windows, Mac and Linux, iOS, Android and any web browser you can stay in the loop no matter what device or browser you use.</p>
+        </div>
+        <div class="cta-2-form center-block">
+          <form onsubmit="return postToSignup('exampleInputEmail2')" id="">
+            <div class="col-lg-6 col-sm-12">
+              <input type="email" class="cta-2-form" id="exampleInputEmail2" aria-describedby="emailHelp" placeholder="Enter your work Email Here">
+            </div>
+            <div class="col-lg-6 col-sm-12">
+              <input href="javascript:;" onclick="postToSignup('exampleInputEmail2')"  class="cta-2-form-submit-btn btn" value="Get started for FREE" type="submit">
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class=" wow fadeInUp" data-wow-delay="0.5s"> <a href="download"><img src="img/icons.png" alt="icons" class="img-responsive center-block browser"  ></a> </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Footer-->
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 ">
+        <h4>Get in Touch With Us</h4>
+        <p><strong>ZEBU IO</strong></p>
+        <p><a href="https://www.google.ca/maps/place/Lakes+Environmental+Consultants+Inc/@43.4768149,-80.5442485,17z/data=!4m12!1m6!3m5!1s0x882bf3d6af254423:0x53b184276657afde!2sLakes+Environmental+Consultants+Inc!8m2!3d43.476811!4d-80.5420598!3m4!1s0x882bf3d6af254423:0x53b184276657afde!8m2!3d43.476811!4d-80.54205980"  target="_blank">170 Columbia St. West, Suite 1<br>
+          Waterloo, ON Canada N2L 3L3</a> </p>
+        <p class="text_white"><a href="tel:+1-519-746-5995" target="_blank">+1 (519) 746-5995</a></p>
+        <p class="text_white"><a href="mailto:moo@zebu.io" target="_blank" > moo@zebu.io</a></p>
+      </div>
+      <div class="col-lg-2 col-md-6 ">
+        <h4>Zebu</h4>
+        <ul>
+          <li><a href="https://zebu.io/">Home</a></li>
+          <li><a href="messaging">Messenger</a></li>
+          <li><a href="calendar">Calendar</a></li>
+          <li><a href="storage">File Storage</a></li>
+          <li><a href="security">Security</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6 ">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="https://zebu.io/lockbox/">Lockbox</a></li>
+          <li> <a href="about">About</a></li>
+          <li><a href="careers">Careers</a></li>
+          <li><a href="https://medium.com/zebu">Blog</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6  ">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="download">Downloads</a></li>
+          <li><a href="guides">Guides</a></li>
+          <li><a href="events">Events</a></li>
+          <li><a href="mailto:moo@zebu.io" target="_blank">Help</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-6 ">
+        <h4>Subscribe</h4>
+        <p >Fill in your email to sign up and subscribe to our email to stay updated.</p>
+        <form action="" method="post">
+          <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter Email Here">
+          <input type="submit" class="btn btn-block btn-submit" value="Subscribe">
+        </form>
+      </div>
+    </div>
+    <!-- End newsletter-form -->
+    <ul class="social-links ">
+      <li><a href="https://twitter.com/ZebuHQ" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+      <li><a href="https://www.facebook.com/ZebuHQ/" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+      <li><a href="https://www.instagram.com/zebuhq/?hl=en" target="_blank"><i class="fa fa-instagram fa-fw"></i></a></li>
+      <li><a href="https://www.linkedin.com/company/zebu-io" target="_blank"><i class="fa fa-linkedin fa-fw"></i></a></li>
+      <li><a href="https://medium.com/zebu" target="_blank"><img src="img/medium.png" alt="medium logo" width="30px" height="24px"></a></li>
+    </ul>
+    <div class="row copyright ">
+      <div class="columns">
+        <h5 class="text_white">Copyright &copy; 2018 Zebu Online. &nbsp; All rights reserved. <!--<a href="https://zebu.io/">Zebu</a> -->| <a href="mailto:moo@zebu.io">Contact Us</a> | <a href="tos">Terms of Service</a> | <a href="privacy_policy">Privacy Policy</a></h5>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--/ Footer--> 
+
+<script src="js/jquery.min.js"></script> 
+<script src="js/jquery.easing.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/custom.js"></script> 
+<script src="js/wow.min.js"></script> 
+<script src="js/particles.js"></script> 
+<script src="js/app.js"></script> 
+
+<!-- Custom JavaScript for this theme -->
+<form id="post-signup" action="https://signup.zebu.io/register" method="post" hidden>
+  <input id="emailField" type="hidden" name="email">
+</form>
+<script>
+    postToSignup = function(emailInputId){
+
+      var email = document.getElementById(emailInputId).value;
+      $('#emailField').val(email);
+      $('#post-signup').submit();
+
+      return false;
+    }
+</script> 
+
+<!-- Google Analytics --> 
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-84971238-1', 'auto');
+ga('send', 'pageview');
+
+</script> 
+<!-- End Google Analytics --> 
+
+<!-- Crisp LiveChat --> 
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f1cfc1d6-0bb8-49ff-8695-11e4365bbf93";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script> 
+
+<!-- End Crisp LiveChat  --> 
+
+<!--load amimate.css from CDN-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
+
+<!--load WOW js from CDN--> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js">
+</script> 
+
+<!--Initiate WOW js, can be at the bottom of your file --> 
+<script> new WOW().init(); </script>
+</body>
+</html>

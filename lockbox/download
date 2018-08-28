@@ -1,0 +1,173 @@
+	<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Zebu IO">
+
+    <title>Zebu Lockbox- Encrypted Cloud Storage Platform</title>
+	  
+	      <!-- Google Analytics -->  
+ <script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-84971238-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+   <!-- End Google Analytics --> 
+	  
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/scrolling-nav.css" rel="stylesheet" type="text/css">
+   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" >	
+   
+   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon">
+
+
+
+  </head>
+
+  <body id="page-top">
+	  
+	   <!-- Navigation -->
+        
+
+
+        <!-- Module -->
+    
+
+    <nav class="navbar navbar-expand-lg m_dark fixed-top nav2 lockbox_nav" id="secondNav">
+     
+        <a class="navbar-brand" href="https://zebu.io/lockbox/"><img src="img/nav_lockbox.png" alt="lockbox logo"></a>
+         <div class="container">
+     
+        <div class="collapse navbar-collapse" id="navbarResponsive2">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://zebu.io/lockbox/#about">Lockbox</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://zebu.io/lockbox/#why">Why Lockbox?</a>
+            </li>
+              <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://zebu.io/lockbox/#feature">Features</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="download">Download</a>
+            </li>
+          </ul>
+        </div>
+		</div>
+    </nav>
+   
+    
+    <!-- ZEBU NAVIGATION -->
+    
+  
+  <nav class="navbar navbar-expand-lg fixed-top z_white navbar-light ">
+<a class="navbar-brand" href="https://zebu.io/"><img src="img/zebu_logo_dark.png" alt="zebu logo"></a>
+   
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ">
+         <li class="nav-item dropdown ">
+        <a class="nav-link dropdown-toggle" href="https://zebu.io/" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Products
+        </a>
+        <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+             <a class="dropdown-item " href="https://zebu.io/"><em>Overview</em></a>
+			<a class="dropdown-item" href="../connect/">Connect</a>
+          <a class="dropdown-item" href="#">Lockbox</a>
+        </div>
+		</li>
+     
+      <li class="nav-item ">
+        <a class="nav-link" href="../about">About</a>
+      </li>
+      
+      <li class="nav-item ">
+        <a class="nav-link" href="../careers">Careers</a>
+      </li>
+<!--	<li class="nav-item ">
+        <a class="nav-link" href="../events">Events</a>
+      </li>-->    </ul>
+    
+     <div class="form-inline my-2 my-lg-0  pr-4 ">
+		<a href="https://signup.zebu.io/register" class="z_sign_in">Register</a>   
+	  </div> 
+    <div class="form-inline my-2 my-lg-0  pr-4 ">
+		<a href="https://signup.zebu.io/signin" class="z_sign_in">Sign In</a>   
+	  </div>
+ 
+  </div>
+</nav>
+   
+    
+    
+    
+   <!-- HERO -->  
+
+    <header class="download_lb">
+      <div class="container ">
+      <div class="row">
+     <div class="col-lg-7 col-sm-12">
+		 
+	<div class="col-lg-12 ">
+		 <h1 class="white_text"><img src="img/lockbox_w.png" alt="lockbox logo">Desktop App</h1> 
+        <h3 class="white_text">The safest way to communicate and store files is now available for your PC!</h3>    
+        <p><em>Version 1.1.0 </em></p>  
+	</div>
+		   
+		  
+		  
+		 <div class="col-lg-8 mt-3">
+		<a href="https://lockbox.zebu.io/download/latest" class="btn" style="width: 100%;height: 60px;padding: 0; border-radius: 3px;"><button href="https://lockbox.zebu.io/download/latest" class="btn-success" style="width: 100%;height: 100%;">Download Now</button></a>        
+ 	 <!--button class="btn-success">  <a href="https://lockbox.zebu.io/download/latest" class="btn">Download Now</a></button-->  
+			 <h5 class="mt-4 lockbox_nav">Trouble Downloading? Try the Links - <a  href="https://lockbox.zebu.io/download/latest/windows_64" class="underline">Windows</a>  | <a   href="https://lockbox.zebu.io/download/latest/osx_64" class="underline">Mac</a>   |  <a   href="https://lockbox.zebu.io/download/latest/linux_64" class="underline">Linux</a>
+			 </h5>
+		 </div>
+		 
+		 <div class="col-lg-4 mt-4 col-sm-12 ">
+		         <div class="social_media row ">
+				<div class="mr-1"><a href="https://www.facebook.com/ZebuHQ/" class="facebook"  target="_blank"><span>Facebook</span></a></div>
+				<div class="mr-1"> <a href="https://twitter.com/ZebuHQ" class="twitter"  target="_blank"><span>Twitter</span></a></div>
+				<div class="mr-1"> <a href="https://www.linkedin.com/company/zebu-io" class="linkedin"  target="_blank"><span>LinkedIn</span></a></div>
+				<div class="mr-1"> <a href="https://www.instagram.com/zebuhq/?hl=en" class="instagram"  target="_blank"><span>Instagram</span></a></div>
+			  </div>
+		 </div>
+		 
+		 <div><img class="treasure2" src="img/zebee_treasure2.png" alt="Zebee with treasure lockbox"></div>
+	 </div>
+		  				   
+
+</div>	
+		
+		</div>
+
+    </header>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js" type="text/javascript"></script>
+
+    <!-- Custom JavaScript for this theme -->
+    <script src="js/scrolling-nav.js" type="text/javascript"></script>
+
+  </body>
+
+</html>

@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zebu Careers</title>
+<meta name="description" content="">
+<meta name="keywords" content="software, enterprise, security, encryption, sms, instant messaging, slack, erp, end to end, connect, zebu, secure, cloud, free">
+<meta name="author" content="Zebu Infrastructure online">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon">
+</head>
+
+<body>
+<!--Navigation bar-->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand" href="https://www.zebu.io/"><img src="img/zebu_logo.png" height="30px" width="auto" alt="zebu logo"></a> </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="messaging">Messenger</a></li>
+        <li><a href="storage">File Storage</a></li>
+        <li><a href="calendar">Calendar</a></li>
+        <!--        <li><a href="security">Security</a></li>
+-->
+        <li><a href="download">Downloads</a></li>
+        <li><a href="https://signup.zebu.io/signin" style=" color: #2661A8;">Sign in &rarr;</a></li>
+        <li class="btn-trial "><a href="https://signup.zebu.io/register">Register</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--/ Navigation bar--> 
+<img class="img-responsive l_abs rocket disapear_mobile" src="img/rocket_zb.png" alt="zebee on a rocket"> 
+
+<!--Banner-->
+<div id="particles-js" class="stars joinherd">
+  <svg id="curve_up3" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M-108-178.14V-626.68l3.29-1.24C273.91-745.42,549-433.27,638.64-356.18,728.58-278.8,1051.19-79.89,1449-306s658.18,0,658.18,0v127.84Z" transform="translate(108.01 654.07)"/>
+  </svg>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 x_space">
+        <div class="banner-text flux img-responsive">
+          <h6>JOIN THE</h6>
+          <h5>HERD</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--/ Banner--> 
+
+<!-- SECTIONS -->
+
+<section class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 ">
+        <div class=" wow fadeInDown ">
+          <h2> Zebu is Optimizing the World</h2>
+        </div>
+        <div class=" wow fadeInUp ">
+          <p>Here at Zebu we are always looking for opportunities to create products that can improve and optimize the essential parts of people’s work and life.</p>
+        </div>
+      </div>
+      <div class="col-lg-12 m1">
+        <div class=" wow fadeInDown ">
+          <h2> Our values</h2>
+        </div>
+        <div class=" wow fadeInUp ">
+          <p>These are some of the values we live and work by, as a team, and as a company. We are all working together to achieve something great, and we are looking to enjoy the journey along the way.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row center-block">
+      <div class=" wow fadeInLeft ">
+        <div class="col-lg-3 card1">
+          <div class="row">
+            <div class="col-lg-3 "><img src="img/rocket_icon.png" alt="Rocket Emoji" style="padding-top:15px;"> </div>
+            <div class="col-lg-8">
+              <h4> Initiative</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=" wow fadeInLeft ">
+        <div class="col-lg-3 card1">
+          <div class="row">
+            <div class="col-lg-3 "> <img src="img/play_icon.png" alt="Tongue out Emoji" style="padding-top:15px;"> </div>
+            <div class="col-lg-8">
+              <h4> Playfulness</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=" wow fadeInLeft ">
+        <div class="col-lg-3 card1">
+          <div class="row">
+            <div class="col-lg-3 "><img src="img/hand_icon.png" alt="Handshake Emoji" style="padding-top:15px;"> </div>
+            <div class="col-lg-8">
+              <h4> Collaboration</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row center-block">
+      <div class=" wow fadeInLeft ">
+        <div class="col-lg-3 card1">
+          <div class="row">
+            <div class="col-lg-3 "> <img src="img/angel_icon.png" alt="Angel Emoji" style="padding-top:15px;"> </div>
+            <div class="col-lg-8">
+              <h4> Respect</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=" wow fadeInLeft ">
+        <div class="col-lg-3 card1">
+          <div class="row">
+            <div class="col-lg-3 "> <img src="img/mindblow_icon.png" alt="Mind Blown Emoji" style="padding-top:15px;"> </div>
+            <div class="col-lg-8">
+              <h4> Creativity</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=" wow fadeInLeft ">
+        <div class="col-lg-3 card1">
+          <div class="row">
+            <div class="col-lg-3 "> <img src="img/positivity_icon.png" alt="Smile Emoji" style="padding-top:15px;"> </div>
+            <div class="col-lg-8">
+              <h4> Positivity</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding bg_light">
+  <div class="container" >
+    <div class="row">
+      <div class="col-lg-10">
+        <div class=" wow fadeInDown ">
+          <h2>Working @ZebuHQ </h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="row center-block m1">
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/office_icon.png"  height="70px" alt="Office icon">
+            <h4> The HQ</h4>
+            <p>Our office is located in Waterloo, the fastest growing startup community in Canada and 2nd in the world after Silicon Valley! </p>
+          </div>
+        </div>
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/drugs_icon.png"  height="70px" alt="Medicine icon">
+            <h4> Health, Drug and Dental</h4>
+            <p>Stay healthy and keep that great smile with our medical, drug and dental benefits.</p>
+          </div>
+        </div>
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/pizza_icon.png"  height="70px" alt="Pizza icon">
+            <h4> Catered Lunch Fridays</h4>
+            <p>Every Friday enjoy a catered lunch with the whole team! It’s a great way to end off the week and spend some time with everyone. When weather permits we’ll even fire up the grill!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row m1">
+      <div class="col-lg-4">
+        <div class=" wow fadeInDown "> <img src="img/ping_icon.png"  height="70px" alt="ping pong paddle icon">
+          <h4> Work hard, Play Hard</h4>
+          <p>We’ve got an awesome breakroom for everyone to relax and have some fun. Ping-Pong, foosball, Wii, and some board and card games too! </p>
+        </div>
+      </div>
+      <div class="col-lg-4 ">
+        <div class=" wow fadeInDown "> <img src="img/coffee_icon.png"  height="70px" alt="coffee icon">
+          <h4> Free Beverages</h4>
+          <p>We’ve got a fridge filled with tons of the most popular drinks for free. If pop and juice aren’t your thing no problem; we’ve got onsite coffee and espresso too! </p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class=" wow fadeInDown "> <img src="img/donut_icon.png"  height="70px" alt="donut snacks icon">
+          <h4> Stocked Snack Pantry</h4>
+          <p>We keep a stocked pantry full of snacks, both healthy and not as healthy. So, you’ll always be just a few steps away from that boost you need. </p>
+        </div>
+      </div>
+    </div>
+    <div class="row x_space m1">
+      <div class="col-lg-7">
+        <div class=" wow fadeInDown ">
+          <h4>Pick your Tech </h4>
+          <p>We want to make sure your working with what you know best. When you join the Herd you can choose PC, Mac or Linux and the IDE of your choice. We’ve got some VScode and pycharm fans but others are always welcome. </p>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class=" wow fadeInDown "> <img src="img/pick_tech.png" class="img-responsive" alt="tech logos"> </div>
+      </div>
+    </div>
+    <div class="row card2">
+      <div class="col-lg-5">
+        <div class=" wow fadeInDown "> <img src="img/toolkit.png" class="img-responsive" alt="tech logos"> </div>
+      </div>
+      <div class="col-lg-6">
+        <div class=" wow fadeInDown ">
+          <h4>Our  Toolkit </h4>
+          <p>Here at Zebu we are using the best tools available and are always looking to power up our team with the most effective tools we can. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<img class="img-responsive l_abs disapear_mobile " src="img/shark.png" alt="shark">
+<section class="section-padding undersea no_open">
+  <svg id="curve_down2" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M2215.18,0V448.54l-3.29,1.23C1833.26,567.28,1558.18,255.13,1468.53,178,1378.59,100.65,1056-98.25,658.18,127.88S0,127.84,0,127.84V0Z"/>
+  </svg>
+  <svg id="curve_up" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M-108-178.14V-626.68l3.29-1.24C273.91-745.42,549-433.27,638.64-356.18,728.58-278.8,1051.19-79.89,1449-306s658.18,0,658.18,0v127.84Z" transform="translate(108.01 654.07)"/>
+  </svg>
+  <div class="container" >
+    <div class="row">
+      <div class="col-lg-6">
+        <div class=" wow fadeInDown ">
+          <h2 class="text_white txt_height x_space">Our vision is to provide effective and secure solutions to businesses around the world. </h2>
+        </div>
+      </div>
+      <div class="col-lg-4 col-sm-4">
+        <div class=" wow fadeInDown "> <img class="img-responsive x_space" src="img/zb_swim.png" alt="Zebee swimming in the ocean"> </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding" id="positions">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class=" wow fadeInLeft ">
+          <h2> Positions</h2>
+          <p>Become part of an awesome team and help us in our journey in crafting exceptional products for people around the world.</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-3">
+        <div class=" wow fadeInLeft "> <img class="img-responsive " src="img/unclesam.png" alt="Uncle Sam Zebee"> </div>
+      </div>
+      <div class="col-lg-8">
+        <div class=" wow fadeInDown ">
+          <h4> WE WANT YOU at Zebu!</h4>
+          <p>Great opportunities are ahead. <br/>
+            Start building the career you've always wanted.</p>
+          <p><strong>Email us your resume and cover letter at :</strong> <a href="mailto:wewantyou@zebu.io">wewantyou@zebu.io</a></p>
+          <div class=" wow fadeInRight m1 "><a href="mailto:wewantyou@zebu.io" class="learn " >Apply Now!</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="row m1 x_space">
+      <div class="row card1 wow fadeInLeft "> <a href="softwaredev">
+        <div class="col-lg-1 col-sm-1">
+          <h2 ><img src="img/dev_icon.png" alt="developer icon" > </h2>
+        </div>
+        <div class="col-lg-10 col-sm-10 ">
+          <h2> Software Developer</h2>
+        </div>
+        <div class="col-lg-1 ">
+          <h2> &rarr;</h2>
+        </div>
+        </a> </div>
+      <div class="row card1 wow fadeInLeft "> <a href="frontend">
+        <div class="col-lg-1 col-sm-1">
+          <h2 ><img src="img/dev_icon2.png" alt="developer icon" > </h2>
+        </div>
+        <div class="col-lg-10 col-sm-10 ">
+          <h2> Front End Developer </h2>
+        </div>
+        <div class="col-lg-1 ">
+          <h2> &rarr;</h2>
+        </div>
+        </a> </div>
+      <div class="row card1 wow fadeInLeft "><a href="fullstack">
+        <div class="col-lg-1 col-sm-1">
+          <h2 ><img src="img/dev_icon2.png" alt="developer icon"> </h2>
+        </div>
+        <div class="col-lg-10 col-sm-10 ">
+          <h2> Full Stack Developer </h2>
+        </div>
+        <div class="col-lg-1 ">
+          <h2> &rarr;</h2>
+        </div>
+        </a> </div>
+    </div>
+  </div>
+</section>
+<section class="section-padding bg_blue" id="team">
+  <div class="cloud"><img class="img-responsive center-block" src="img/cloud.png" alt="clouds"> </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-11  ">
+        <div class=" wow fadeInLeft x_space">
+          <h2 >Meet the Herd <img src="img/cow_emoji.png" alt="cow Emoji" width="40px" height="40px"></h2>
+        </div>
+      </div>
+      <img class="img-responsive r_abs2 disapear_mobile" src="img/zb_balloon.png" alt="Zebee in a hot air balloon">
+      <div class="row center-block">
+        <div class="col-lg-1"></div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1 img-responsive">
+            <div class="aaron img-responsive"></div>
+            <p>Aaron Miedema</p>
+            <p class="greytxt">Developer</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="ben"></div>
+            <p>Ben Raskin</p>
+            <p class="greytxt">QA</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="felipe"></div>
+            <p>Felipe Ukan</p>
+            <p class="greytxt">Developer</p>
+          </div>
+        </div>
+      </div>
+      <div class="row center-block">
+        <div class="col-lg-1"></div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="jackie"></div>
+            <p>Jackie Ma</p>
+            <p class="greytxt">Developer</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="jesse"></div>
+            <p>Jesse David Thé</p>
+            <p class="greytxt">CEO</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="julie"></div>
+            <p>Julie Swatson</p>
+            <p class="greytxt">Sales</p>
+          </div>
+        </div>
+      </div>
+      <img class="img-responsive l_abs2 disapear_mobile " src="img/animals_balloon.png" alt="animals in hot air balloons">
+      <div class="row center-block">
+        <div class="col-lg-1"></div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="leon"></div>
+            <p>Leon Fattakhov</p>
+            <p class="greytxt">QA</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="leo"></div>
+            <p>Leo Thé</p>
+            <p class="greytxt">Marketing</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="lucas"></div>
+            <p>Lucas Almeida</p>
+            <p class="greytxt">Developer</p>
+          </div>
+        </div>
+      </div>
+      <img class="img-responsive r_abs2 disapear_mobile " src="img/racoon_balloon.png" alt="Raccoon in hot air balloon">
+      <div class="row center-block">
+        <div class="col-lg-1"></div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="marisa"></div>
+            <p>Marisa Crandall</p>
+            <p class="greytxt">Designer</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1 ">
+            <div class="mike"></div>
+            <p>Mike Johnson</p>
+            <p class="greytxt">CTO</p>
+          </div>
+        </div>
+        <div class="wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="ricardo"></div>
+            <p>Ricardo Bedin</p>
+            <p class="greytxt">Developer</p>
+          </div>
+        </div>
+      </div>
+      <div class="row center-block">
+        <div class="col-lg-1"></div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="valeriy"></div>
+            <p>Valeriy Smotrikov</p>
+            <p class="greytxt">Developer</p>
+          </div>
+        </div>
+        <div class=" wow fadeInLeft text-center">
+          <div class="col-lg-3 card1">
+            <div class="zebee"></div>
+            <p>Zebee </p>
+            <p class="greytxt">Mascot</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cloud2"><img class="img-responsive center-block disapear_mobile " src="img/cloud2.png" alt="clouds"> </div>
+</section>
+
+<!--end sections--> 
+<!--clients-->
+<section class=" section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-1 "></div>
+      <div class="col-lg-11 center-block">
+        <div class=" wow fadeInDown ">
+          <h2>See What We're Up To</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row m1">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-2 col-md-2  col-sm-2">
+        <div class=" wow fadeInRight one"><a href="https://twitter.com/ZebuHQ" target="_blank"><img class="img-responsive mobile_sm" src="img/twitter_racoon.png" alt="twitter"></a></div>
+      </div>
+      <div class="col-lg-2  col-md-2 col-sm-2">
+        <div class=" wow fadeInDown one"><a href="https://www.facebook.com/ZebuHQ/" target="_blank"><img class="img-responsive mobile_sm" src="img/facebook_zebee.png" alt="facebook"></a></div>
+      </div>
+      <div class="col-lg-2  col-md-2 col-sm-2">
+        <div class=" wow fadeInLeft one"><a href="https://www.linkedin.com/company/zebu-io " target="_blank"><img class="img-responsive  mobile_sm" src="img/linkedin_rabbit.png" alt="linkedin" ></a></div>
+      </div>
+      <div class="col-lg-2 col-md-2 col-sm-2">
+        <div class=" wow fadeInUp one"><a href="https://www.instagram.com/zebuhq/?hl=en" target="_blank"><img class="img-responsive mobile_sm" src="img/insta_bear.png" alt="instagram"></a></div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class=" wow fadeInUp one"><a href="https://medium.com/zebu" target="_blank"><img class="img-responsive mobile_sm" src="img/medium_fox.png" alt="medium"></a></div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--end -->
+<section class="recent_tweets section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-1"> </div>
+      <div class="col-lg-10">
+        <div class=" wow fadeInDown  one">
+          <h5><font color="#59D0F8"><a href="https://twitter.com/ZebuHQ" target="_blank">Recent Tweets</a></font></h5>
+        </div>
+      </div>
+    </div>
+    <div class="row center-block center">
+      <div class="col-lg-1 "></div>
+      <div class=" wow fadeInLeft "> <a href="https://twitter.com/ZebuHQ" target="_blank">
+        <div class="col-lg-3 card1"> <img class="img-responsive  center-block" src="img/z_app_icon.png" width="80px" height="80px" alt="Z app icon - zebu" style="padding: 30px 0 20px 0;">
+          <p class="text-center">Zebu</p>
+          <p class="text-center greytxt">@ZebuHQ</p>
+          <br>
+          <p class="greytxt">New blog 'Optimizing the World' from @ZebuHQ on @Medium!
+            
+            We will be covering our development, stories from our users, news and tips on how to get the most from our platform!</p>
+          <img class="img-responsive pull-right" src="img/twitter_sm.png" alt="twitter icon"> </div>
+        </a> </div>
+      <div class=" wow fadeInLeft "> <a href="https://twitter.com/ZebuHQ" target="_blank">
+        <div class="col-lg-3 card1"> <img class="img-responsive  center-block" src="img/z_app_icon.png"  width="80px" height="80px" alt="Z app icon - zebu" style="padding: 30px 0 20px 0;">
+          <p class="text-center">Zebu</p>
+          <p class="text-center greytxt">@ZebuHQ</p>
+          <br>
+          <p class="greytxt">Hello everybody! We are excited to announce our upcoming webinars!  Join us for FREE on <br>
+            May 15th and May 17th <br>
+            Sign up on  https://zebu.io <br>
+            See you all there! </p>
+          <img class="img-responsive pull-right" src="img/twitter_sm.png" alt="twitter icon"> </div>
+        </a> </div>
+      <div class=" wow fadeInLeft "> <a href="https://twitter.com/ZebuHQ" target="_blank">
+        <div class="col-lg-3 card1"> <img class="img-responsive center-block" src="img/z_app_icon.png" width="80px" height="80px" alt="Z app icon - zebu" style="padding: 30px 0 20px 0;">
+          <p class="text-center">Zebu</p>
+          <p class="text-center greytxt">@ZebuHQ</p>
+          <br>
+          <p class="greytxt">Join us for our first webinar about Zebu Connect, the safest Enterprise Messenger out there! <br>
+            See you all on April 3rd! <br>
+            Sign up today!<br>
+            https://zebu.io</p>
+          <img class="img-responsive pull-right" src="img/twitter_sm.png" alt="twitter icon"> </div>
+        </a> </div>
+    </div>
+  </div>
+</section>
+
+<!--		--> 
+
+<!--Cta-->
+<section  class=" section-padding banner_black">
+  <svg id="curve_down" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2300.96 553.46">
+    <defs>
+      <style>
+.cls-1{fill:#fff;}
+</style>
+    </defs>
+    <path class="cls-1" d="M2193-698.8v553.44c-275.48-57.72-471.19-274-549.19-341.07C1536.48-578.74,1151.64-816,677.12-546.27s-785.13,0-785.13,0V-698.81Z" transform="translate(108.01 698.81)"/>
+  </svg>
+  <!--  <div class="row m1 x_space">
+    <div class="col-lg-3">
+      <div class=" wow fadeInRight"> <img class="img-responsive center-block" src="img/c_pic1.jpg" alt="zebu team picture  "> </div>
+    </div>
+    <div class="col-lg-3">
+      <div class=" wow fadeInRight "> <img class="img-responsive center-block" src="img/c_pic2.jpg" alt="zebu team picture  "> </div>
+    </div>
+    <div class="col-lg-3">
+      <div class=" wow fadeInRight  "> <img class="img-responsive center-block" src="img/c_pic3.jpg" alt="zebu team picture  "> </div>
+    </div>
+    <div class="col-lg-3">
+      <div class=" wow fadeInRight  "> <img class="img-responsive center-block" src="img/c_pic4.jpg" alt="zebu team picture  "> </div>
+    </div>
+  </div>-->
+  <div class="row">
+    <div class="col-md-12">
+      <div class="carousel slide multi-item-carousel" id="theCarousel">
+        <div class="carousel-inner">
+          <div class="item active">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic5.jpg" alt="zebu team picture  "></a></div>
+          </div>
+          <div class="item">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic6.jpg" alt="zebu team picture  "></a></div>
+          </div>
+          <div class="item">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic7.jpg" alt="zebu team picture  "></a></div>
+          </div>
+          <div class="item">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic4.jpg" alt="zebu team picture  "></a></div>
+          </div>
+			 <div class="item">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic1.jpg" alt="zebu team picture  "></a></div>
+          </div>
+			 <div class="item">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic2.jpg" alt="zebu team picture  "></a></div>
+          </div>
+			 <div class="item">
+            <div class="col-xs-4"><a href="#1"><img class="img-responsive center-block" src="img/c_pic3.jpg" alt="zebu team picture  "></a></div>
+          </div>
+        </div>
+        <a class="left carousel-control" href="#theCarousel" data-slide="prev"><img src="img/arrow-right.png" alt="right" style="padding-top: 50%;"></a> <a class="right carousel-control" href="#theCarousel" data-slide="next"><img src="img/arrow-left.png" alt="right" style="padding-top: 50%;"></a> </div>
+    </div>
+  </div>
+</section>
+<!--Footer-->
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 ">
+        <h4>Get in Touch With Us</h4>
+        <p><strong>ZEBU IO</strong></p>
+        <p><a href="https://www.google.ca/maps/place/Lakes+Environmental+Consultants+Inc/@43.4768149,-80.5442485,17z/data=!4m12!1m6!3m5!1s0x882bf3d6af254423:0x53b184276657afde!2sLakes+Environmental+Consultants+Inc!8m2!3d43.476811!4d-80.5420598!3m4!1s0x882bf3d6af254423:0x53b184276657afde!8m2!3d43.476811!4d-80.54205980"  target="_blank">170 Columbia St. West, Suite 1<br>
+          Waterloo, ON Canada N2L 3L3</a> </p>
+        <p class="text_white"><a href="tel:+1-519-746-5995" target="_blank">+1 (519) 746-5995</a></p>
+        <p class="text_white"><a href="mailto:moo@zebu.io" target="_blank" > moo@zebu.io</a></p>
+      </div>
+      <div class="col-lg-2 col-md-6 ">
+        <h4>Zebu</h4>
+        <ul>
+          <li><a href="https://zebu.io/">Home</a></li>
+          <li><a href="messaging">Messenger</a></li>
+          <li><a href="calendar">Calendar</a></li>
+          <li><a href="storage">File Storage</a></li>
+          <li><a href="security">Security</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6 ">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="https://zebu.io/lockbox/">Lockbox</a></li>
+          <li> <a href="about">About</a></li>
+          <li><a href="careers">Careers</a></li>
+          <li><a href="https://medium.com/zebu">Blog</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6  ">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="download">Downloads</a></li>
+          <li><a href="guides">Guides</a></li>
+          <li><a href="events">Events</a></li>
+          <li><a href="mailto:moo@zebu.io" target="_blank">Help</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-6 ">
+        <h4>Subscribe</h4>
+        <p >Fill in your email to sign up and subscribe to our email to stay updated.</p>
+        <form action="" method="post">
+          <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter Email Here">
+          <input type="submit" class="btn btn-block btn-submit" value="Subscribe">
+        </form>
+      </div>
+    </div>
+    <!-- End newsletter-form -->
+    <ul class="social-links ">
+      <li><a href="https://twitter.com/ZebuHQ" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+      <li><a href="https://www.facebook.com/ZebuHQ/" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+      <li><a href="https://www.instagram.com/zebuhq/?hl=en" target="_blank"><i class="fa fa-instagram fa-fw"></i></a></li>
+      <li><a href="https://www.linkedin.com/company/zebu-io" target="_blank"><i class="fa fa-linkedin fa-fw"></i></a></li>
+      <li><a href="https://medium.com/zebu" target="_blank"><img src="img/medium.png" alt="medium logo" width="30px" height="24px"></a></li>
+    </ul>
+    <div class="row copyright ">
+      <div class="columns">
+        <h5 class="text_white">Copyright &copy; 2018 Zebu Online. &nbsp; All rights reserved. <!--<a href="https://zebu.io/">Zebu</a> -->| <a href="mailto:moo@zebu.io">Contact Us</a> | <a href="tos">Terms of Service</a> | <a href="privacy_policy">Privacy Policy</a></h5>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--/ Footer--> 
+
+<script src="js/jquery.min.js"></script> 
+<script src="js/jquery.easing.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/custom.js"></script> 
+<script src="js/wow.min.js"></script> 
+<script src="js/particles.js"></script> 
+<script src="js/app.js"></script> 
+
+<!-- Custom JavaScript for this theme -->
+<form id="post-signup" action="https://signup.zebu.io/register" method="post" hidden>
+  <input id="emailField" type="hidden" name="email">
+</form>
+<script>
+    postToSignup = function(emailInputId){
+
+      var email = document.getElementById(emailInputId).value;
+      $('#emailField').val(email);
+      $('#post-signup').submit();
+
+      return false;
+    }
+</script> 
+
+<!-- CAROUSEL PICTURES --> 
+<script>
+	// Instantiate the Bootstrap carousel
+$('.multi-item-carousel').carousel({
+  interval: false
+});
+
+// for every slide in carousel, copy the next slide's item in the slide.
+// Do the same for the next, next item.
+$('.multi-item-carousel .item').each(function(){
+  var next = $(this).next();
+  if (!next.length) {
+    next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+  
+  if (next.next().length>0) {
+    next.next().children(':first-child').clone().appendTo($(this));
+  } else {
+  	$(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+  }
+});
+</script> 
+
+<!-- Google Analytics --> 
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-84971238-1', 'auto');
+ga('send', 'pageview');
+
+</script> 
+<!-- End Google Analytics --> 
+
+<!-- Crisp LiveChat --> 
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f1cfc1d6-0bb8-49ff-8695-11e4365bbf93";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script> 
+
+<!-- End Crisp LiveChat  --> 
+
+<!--load amimate.css from CDN-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
+
+<!--load WOW js from CDN--> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js">
+</script> 
+
+<!--Initiate WOW js, can be at the bottom of your file --> 
+<script> new WOW().init(); </script>
+</body>
+</html>

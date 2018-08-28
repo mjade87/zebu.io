@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zebu Careers</title>
+<meta name="description" content="">
+<meta name="keywords" content="software, enterprise, security, encryption, sms, instant messaging, slack, erp, end to end, connect, zebu, secure, cloud, free">
+<meta name="author" content="Zebu Infrastructure online">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon">
+</head>
+
+<body>
+<!--Navigation bar-->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <a class="navbar-brand" href="https://www.zebu.io/"><img src="img/zebu_logo.png" height="30px" width="auto" alt="zebu logo"></a> </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="messaging">Messenger</a></li>
+        <li><a href="storage">File Storage</a></li>
+        <li><a href="calendar">Calendar</a></li>
+<!--        <li><a href="security">Security</a></li>
+-->        <li><a href="download">Downloads</a></li>
+        <li><a href="https://signup.zebu.io/signin" style=" color: #2661A8;">Sign in &rarr;</a></li>
+        <li class="btn-trial "><a href="https://signup.zebu.io/register">Register</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--/ Navigation bar--> 
+
+
+
+<!--Banner-->
+<div id="particles-js" class="stars joinherd">
+  <svg id="curve_up3" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2215.18 475.92">
+    <path class="cls-1" d="M-108-178.14V-626.68l3.29-1.24C273.91-745.42,549-433.27,638.64-356.18,728.58-278.8,1051.19-79.89,1449-306s658.18,0,658.18,0v127.84Z" transform="translate(108.01 654.07)"/>
+  </svg>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 x_space">
+        <div class="banner-text flux">
+          <h6>JOIN THE</h6> 
+			<h5>HERD</h5> 
+			 <h1> Front End Developer</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--/ Banner--> 
+
+<!-- SECTIONS -->
+
+<section class="section-padding careers">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 ">
+		  
+       <h5 class="blue"><a href="careers"> &larr; Go back to Careers</a></h5>
+			   
+			     <div class=" wow fadeInUp ">
+          <h1> Front End Developer</h1>
+		  </div>
+		  
+          <h4> Company Introduction</h4>
+
+          <p>Zebu Infrastructure Online is a Startup in Waterloo that continously builds up its cloud platform that intelligently connects all aspects of businesses. Zebu's solution will provide businesses around the world with powerful, secure, and simple tools, enabling them to strive in the 21st century. </p>
+       
+		  
+        <div class=" wow fadeInUp ">
+          <h4>Job Description</h4>
+
+          <p>We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.</p>
+        </div>
+		  
+		  <div class=" wow fadeInUp ">
+          <h4>Responsibilities</h4>
+     
+        	<ul>
+				<li>	Develop new user-facing features</li>
+				<li>Build reusable code and libraries for future use</li>
+				<li>	Ensure the technical feasibility of UI/UX designs</li>
+				<li>	Optimize application for maximum speed and scalability</li>
+				<li>	Assure that all user input is validated before submitting to back-end</li>
+				<li>	Collaborate with other team members and stakeholders</li>
+	
+
+				
+	
+			</ul>
+        </div>
+		  
+		<div class=" wow fadeInUp ">
+          <h4>  Skills and Qualifications</h4>
+
+        	<ul>
+		
+				<li>	Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery</li>
+				<li>	Proficient in the use of a Single Page Application library such as AngularJS, KnockoutJS, BackboneJS, ReactJS, DurandalJS, etc.</li>
+				<li>	Proficient understanding of web markup, including HTML5, CSS3</li>
+				<li>	Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS</li>
+				<li>	Good understanding of asynchronous request handling, partial page updates, and AJAX</li>
+				<li>	Proficient understanding of cross-browser compatibility issues and ways to work around them</li>
+				<li>	Proficient understanding of source versioning using Git</li>
+		
+	
+			</ul>
+        </div>
+		
+		  
+		    <div class=" wow fadeInRight m1 "><a href="mailto:wewantyou@zebu.io" class="learn " >Apply Now!</a></div>
+		  
+        </div>
+	  </div>
+	   </div>
+</section>
+	
+	
+<section class="bg_light">
+  <div class="container" >
+    <div class="row">
+      <div class="col-lg-10">
+        <div class=" wow fadeInDown ">
+          <h2>Working @ZebuHQ </h2>
+        </div>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="row center-block m1">
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/office_icon.png"  height="70px" alt="Office icon">
+            <h4> The HQ</h4>
+			            <p>Our office is located in Waterloo, the fastest growing startup community in Canada and 2nd in the world after Silicon Valley! </p>
+
+          </div>
+        </div>
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/drugs_icon.png"  height="70px" alt="Medicine icon">
+            <h4> Health, Drug and Dental</h4>
+			            <p>Stay healthy and keep that great smile with our medical, drug and dental benefits.</p>
+
+          </div>
+        </div>
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/pizza_icon.png"  height="70px" alt="Pizza icon">
+            <h4> Catered Lunch Fridays</h4>
+            <p>Every Friday enjoy a catered lunch with the whole team! It’s a great way to end off the week and spend some time with everyone. When weather permits we’ll even fire up the grill!</p>
+          </div>
+        </div>
+      </div>
+	  </div>
+      <div class="row m1">
+        <div class="col-lg-4">
+          <div class=" wow fadeInDown "> <img src="img/ping_icon.png"  height="70px" alt="ping pong paddle icon">
+            <h4> Work hard, Play Hard</h4>
+            <p>We’ve got an awesome breakroom for everyone to relax and have some fun. Ping-Pong, foosball, Wii, and some board and card games too! </p>
+          </div>
+        </div>
+        <div class="col-lg-4 ">
+          <div class=" wow fadeInDown "> <img src="img/coffee_icon.png"  height="70px" alt="coffee icon">
+            <h4> Free Beverages</h4>
+            <p>We’ve got a fridge filled with tons of the most popular drinks for free. If pop and juice aren’t your thing no problem; we’ve got onsite coffee and espresso too!
+</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class=" wow fadeInDown "> <img src="img/donut_icon.png"  height="70px" alt="donut snacks icon">
+            <h4> Stocked Snack Pantry</h4>
+            <p>We keep a stocked pantry full of snacks, both healthy and not as healthy. So, you’ll always be just a few steps away from that boost you need.
+
+</p>
+          </div>
+        </div>
+      </div>
+
+	    <div class=" wow fadeInRight m1 "><a href="mailto:wewantyou@zebu.io" class="learn " >Apply Now!</a></div>
+  </div>
+	
+	<img class="img-responsive center-block " src="img/rocket2.png" alt="zebee on a rocket"> 
+
+</section>
+	
+
+
+<!--Footer-->
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 ">
+        <h4>Get in Touch With Us</h4>
+        <p><strong>ZEBU IO</strong></p>
+        <p><a href="https://www.google.ca/maps/place/Lakes+Environmental+Consultants+Inc/@43.4768149,-80.5442485,17z/data=!4m12!1m6!3m5!1s0x882bf3d6af254423:0x53b184276657afde!2sLakes+Environmental+Consultants+Inc!8m2!3d43.476811!4d-80.5420598!3m4!1s0x882bf3d6af254423:0x53b184276657afde!8m2!3d43.476811!4d-80.54205980"  target="_blank">170 Columbia St. West, Suite 1<br>
+          Waterloo, ON Canada N2L 3L3</a> </p>
+        <p class="text_white"><a href="tel:+1-519-746-5995" target="_blank">+1 (519) 746-5995</a></p>
+        <p class="text_white"><a href="mailto:moo@zebu.io" target="_blank" > moo@zebu.io</a></p>
+      </div>
+      <div class="col-lg-2 col-md-6 ">
+        <h4>Zebu</h4>
+        <ul>
+          <li><a href="https://zebu.io/">Home</a></li>
+          <li><a href="messaging">Messenger</a></li>
+          <li><a href="calendar">Calendar</a></li>
+          <li><a href="storage">File Storage</a></li>
+		  			 <li><a href="security">Security</a></li>
+
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6 ">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="https://zebu.io/lockbox/">Lockbox</a></li>
+          <li> <a href="about">About</a></li>
+          <li><a href="careers">Careers</a></li>
+          <li><a href="https://medium.com/zebu">Blog</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-6  ">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="download">Downloads</a></li>
+          <li><a href="guides">Guides</a></li>
+          <li><a href="events">Events</a></li>
+          <li><a href="mailto:moo@zebu.io" target="_blank">Help</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-md-6 ">
+        <h4>Subscribe</h4>
+        <p >Fill in your email to sign up and subscribe to our email to stay updated.</p>
+        <form action="" method="post">
+          <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Enter Email Here">
+          <input type="submit" class="btn btn-block btn-submit" value="Subscribe">
+        </form>
+      </div>
+    </div>
+    <!-- End newsletter-form -->
+    <ul class="social-links ">
+      <li><a href="https://twitter.com/ZebuHQ" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+      <li><a href="https://www.facebook.com/ZebuHQ/" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+      <li><a href="https://www.instagram.com/zebuhq/?hl=en" target="_blank"><i class="fa fa-instagram fa-fw"></i></a></li>
+      <li><a href="https://www.linkedin.com/company/zebu-io" target="_blank"><i class="fa fa-linkedin fa-fw"></i></a></li>
+	        <li><a href="https://medium.com/zebu" target="_blank"><img src="img/medium.png" alt="medium logo" width="30px" height="24px"></a></li>
+
+    </ul>
+    <div class="row copyright ">
+      <div class="columns">
+        <h5 class="text_white">Copyright &copy; 2018 Zebu Online. &nbsp; All rights reserved. <!--<a href="https://zebu.io/">Zebu</a> -->| <a href="mailto:moo@zebu.io">Contact Us</a> | <a href="tos">Terms of Service</a> | <a href="privacy_policy">Privacy Policy</a></h5>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--/ Footer--> 
+
+<script src="js/jquery.min.js"></script> 
+<script src="js/jquery.easing.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/custom.js"></script> 
+<script src="js/wow.min.js"></script> 
+<script src="js/particles.js"></script> 
+<script src="js/app.js"></script> 
+
+<!-- Custom JavaScript for this theme -->
+<form id="post-signup" action="https://signup.zebu.io/register" method="post" hidden>
+  <input id="emailField" type="hidden" name="email">
+</form>
+<script>
+    postToSignup = function(emailInputId){
+
+      var email = document.getElementById(emailInputId).value;
+      $('#emailField').val(email);
+      $('#post-signup').submit();
+
+      return false;
+    }
+</script> 
+
+<!-- Google Analytics --> 
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-84971238-1', 'auto');
+ga('send', 'pageview');
+
+</script> 
+<!-- End Google Analytics --> 
+
+<!-- Crisp LiveChat --> 
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f1cfc1d6-0bb8-49ff-8695-11e4365bbf93";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script> 
+
+<!-- End Crisp LiveChat  --> 
+
+<!--load amimate.css from CDN-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
+
+<!--load WOW js from CDN--> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js">
+</script> 
+
+<!--Initiate WOW js, can be at the bottom of your file --> 
+<script> new WOW().init(); </script>
+</body>
+</html>

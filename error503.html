@@ -1,0 +1,78 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERROR503</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+	
+<link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon">
+  </head>
+  <style>
+	  body { background-color: #716558;}
+	</style>
+  
+  <body>
+  
+
+<section >
+		
+  <div class="back_sky2"></div>
+	<img src="img/construct.gif" class="img-responsive center-block"  alt="construction">
+	 <div class="ground" style="margin-top: -35px; padding-bottom: 40px;">
+	 <h1 class="text-center text_white" > We’re upgrading Zebu for you!</h1>
+	 <div class="container"><div class="bar center-block"><span></span></div></div>
+
+  </div>
+	
+
+
+</section>
+  </body>
+	
+<script>
+    function _get_zebu_host(webview_src) {
+        var id = webview_src.indexOf('?zebuhost=');
+        if (id < 0) return;
+        var result = webview_src.substring(id+10, webview_src.length);
+        id = result.indexOf('#');
+        if (id > 0)
+            result = result.substring(0, id);
+        if (result.indexOf('://') < 0)
+            result = window.location.protocol + '//' + result;
+        return result;
+    }
+    var _url = _get_zebu_host(window.location.href);	
+
+    var _try_it_again = document.getElementById("try_it_again");
+    if (_try_it_again) {
+        _try_it_again.addEventListener("click", function(){
+            window.location.replace(_url || 'https://www.zebu.io');
+        });
+    }
+
+    var _maintenance_timer;    
+    function _detect_maintenance() {
+        var timeout = Math.floor(Math.random()*30+1)*1000 + 10000;
+        setTimeout(function(){
+            var xhr = new XMLHttpRequest();
+            xhr.onload = function () {
+                if (xhr.status == 200 && xhr.responseText == 'alive') {
+                    window.location.replace(_url);
+                    return;
+                }
+                _detect_maintenance();
+            };            
+            xhr.onerror = function () {
+                _detect_maintenance();
+            };            
+            xhr.open("GET", _url + '/web/server_state', true);
+            xhr.send();
+        }, timeout);
+    }
+    if (_url) _detect_maintenance();
+    
+</script>
+</html>

@@ -1,0 +1,549 @@
+a {
+    color: #2362a9;
+}
+a:hover, a:focus {
+    color: #16becf;
+    text-decoration: none;
+}
+
+
+/* ==========================================================================
+Buttons
+========================================================================== */
+.sign-btn {
+    display: inline-block;
+    padding: 5px 20px;
+    border: 2px solid #46B5E8 ;
+    border-radius: 4px;
+    color: #46B5E8;
+    font-size: 14px;
+	margin-left: 20px;
+	font-weight: bold;
+	
+}
+.sign-btn:hover, .sign-btn:focus {
+    border-color: #73d0da;
+    color: #73d0da;
+    text-decoration: none;
+}
+
+
+.use-btn {
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    padding: 20px 50px;
+    border-radius: 4px;
+    background-color: #46B5E8;
+    color: #fff;
+    font-size: 16px;
+}
+.use-btn:hover, .use-btn:focus {
+    background-color: #73d0da;
+    color: #fff;
+    text-decoration: none;
+}
+.learn-btn, .download-btn {
+    display: inline-block;
+    padding: 18px 46px;
+    border: 2px solid #46B5E8;
+    border-radius: 4px;
+    color: #46B5E8;
+    font-size: 16px;
+}
+.learn-btn:hover, .download-btn:hover, .learn-btn:focus, .download-btn:focus {
+    border-color: #73d0da;
+    color: #73d0da;
+    text-decoration: none;
+}
+.read-more-btn {
+    display: inline-block;
+    color: #323a45;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.read-more-btn i, .download-btn i {
+    margin-left: 5px
+}
+.showcase .download-btn {
+    margin-top: 50px
+}
+.download .download-btn {
+    margin-top: 25px
+}
+
+/* ==========================================================================
+ZEBU Navigation
+========================================================================== */
+
+
+.top-bar {
+	width: 100%;
+	height: 42px;
+	background: #323232  !important;
+	padding: 0!important;
+/*border-bottom: 1px solid grey;
+*/}
+
+.top-bar, .top-bar ul {
+    background-color: #323232 ;
+	padding: 0!important;
+}
+
+.menu > li > a {
+    display: block;
+    padding: 0 1rem;
+    line-height: 1;
+	color:white;
+	font-weight:bold;
+}
+
+.title-bar{ background: #323232  }
+
+.logo_nav{
+
+padding: 9px 0 0 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.logo_nav img{	width: 89px;
+	height: 20px;}
+.zebu_nav{
+	height: 40px;
+		margin-top: -5px;
+}
+.zebu_nav ul {
+list-style: none;
+  overflow: hidden;
+}
+
+.zebu_nav ul li {
+	 display: inline-block;
+	font: 13px Verdana, 'Lucida Grande';
+	cursor: pointer;
+	-webkit-transition: padding .05s linear;
+	-moz-transition: padding .05s linear;
+	-ms-transition: padding .05s linear;
+	-o-transition: padding .05s linear;
+	transition: padding .05s linear;
+}
+.zebu_nav ul li a {
+
+	 font-weight: bold;
+    text-transform: uppercase;
+	padding: 0 10px;
+	color: white;
+	text-decoration: none;
+	-webkit-transition: all .1s ease-out;
+	-moz-transition: all .1s ease-out;
+	-ms-transition: all .1s ease-out;
+	-o-transition: all .1s ease-out;
+	transition: all .1s ease-out;
+}
+.zebu_nav ul li a:hover {
+	    color: #73d0da;
+}
+
+@media screen and (max-width: 600px) {
+  .top_bar {height:auto;}
+	.zebu_nav{ height: auto;
+	margin-top: 0px;}
+	.zebu_nav ul {
+	text-align: left;
+		padding-top: 0; }
+	
+	.zebu_nav ul li{ display: block !important;
+	font-size: 18px;
+	padding: 10px 0;
+	}
+  
+}
+/* ==========================================================================
+ ABOUT
+========================================================================== */
+.about_hero {
+    position: relative;
+    padding:30px 0 60px 0;
+    min-height: 400px;
+    background: url('../img/about-hero.jpg') no-repeat center ;
+    background-size: cover;
+    color: #fff;
+	width: 100%;
+	height: 100%;
+}
+.about_hero  h1 {
+    margin:130px 0 -50px 0;
+    font-weight: 600;
+    font-size: 50px;
+	letter-spacing: 2px;	
+}
+
+
+.about_info{ margin:40px auto}
+.about_info h4{ text-align: center;
+/*margin: 10px 100px;*/}
+.about_info h2 { text-align: center;}
+.comp_intro{margin-top:100px;}
+
+
+.z_blue{color:#2362A9;}
+
+/* ==========================================================================
+ CAREERS
+========================================================================== */
+.careers_hero {
+    position: relative;
+    padding:30px 0 60px 0;
+    min-height: 400px;
+    background: url('../img/careers-hero.jpg') no-repeat center ;
+    background-size: cover;
+    color: #fff;
+	width: 100%;
+	height: 100%;
+}
+.careers_hero  h1 {
+    margin:50px 0 -50px 500px;
+    font-weight: 600;
+    font-size: 65px;
+	letter-spacing: 2px;	
+}
+.careers_hero h1 span {
+    display: inline-block;
+    color: #a1a9b0;
+}
+
+.careers_hero  h2 {
+    margin:55px 0  0 150px;
+    font-weight: 600;
+    font-size: 45px;
+	letter-spacing: 2px;
+}
+
+.careers_hero .red{font-size:100px;}
+
+.careers_info{ margin:40px auto}
+.careers p{
+	margin: 20px 0;
+	font-size: 19px;
+}
+
+.back_blue{background-color:#2362a9;
+	padding: 20px 0;
+color:white;}
+
+.quote{margin-bottom: 20px;
+}
+
+
+@media (max-width: 500px) {
+.careers_hero h1  {
+	margin: 0;
+	padding:0 10px;
+
+}
+}
+.posting a{color:#2362a9;}
+.posting a:hover{color:black;}
+.posting h4 {padding:-10px 0; margin:-10px 0;}
+.line{border-bottom:1px #d1d3d4 solid;
+	margin-bottom:30px;}
+
+.job {margin-top:50px;
+padding-bottom:50px;}
+
+/* ==========================================================================
+ PRODUCTS
+========================================================================== */
+.products_hero {
+    position: relative;
+    padding:30px 0 60px 0;
+    min-height: 400px;
+    background: url('../img/products-hero.jpg') no-repeat center ;
+	background-color:  #2362a9;
+    background-size: cover;
+    color: #fff;
+	width: 100%;
+	height: 100%;
+}
+
+@media (max-width: 700px) {
+.products_hero, .about_hero, .careers_hero  {
+		background-color: #296EB2;
+	 background-image: none;
+		
+}
+}
+
+
+.products_hero  h1 {
+    font-weight: 600;
+	font-size:30px;
+	letter-spacing: 2px;
+	margin: 100px 0 0 0 
+
+	}
+
+.products_hero h1 span {
+    display: inline-block;
+    color: #a1a9b0;
+}
+
+.products_hero  p {
+    margin:0px 0 10px 0;
+    font-size: 18px;
+}
+
+
+.product_info
+{
+	width: 100%;
+}
+
+.product_info h4{
+	padding: 60px 0 0px 0px;
+	line-height: 30px;
+}
+
+
+.products
+{margin: 50px 0;}
+
+
+.border{
+	border-radius: 15px;
+	padding: 40px;
+	align-content: center;
+/* box-shadow: 3px 3px 5px #888888;
+*/	
+}
+.border h1
+{font-size: 22px;
+}
+
+.border h2
+{font-size: 17px;
+font-weight: bold;
+line-height: 25px;}
+
+.border img {
+	padding-bottom: 20px;
+} 
+.border .learn-btn1 {
+    display: inline-block;
+	margin-top: 20px;
+    padding: 5px 15px;
+    border: 2px solid ;
+    border-radius: 4px;
+	font-size: 16px;}
+
+.blue{
+	color:#00aeef;
+	border-color: #00aeef;
+	
+}
+
+.red{
+	color:#F15C5A;
+	border-color: #F15C5A;
+	
+}
+
+.border .learn-btn1:hover {
+    border-color:rgba(0, 0, 0, 0.3); 
+    color: rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================================================
+404 / 500
+========================================================================== */
+.fourerror1
+{background:  #232935 ;}
+.fourerror{width:100%;
+	height:700px;
+	background:  url('../img/404.png') #232935 no-repeat;}
+.takehome button 
+{background-color: #394454;
+width:500px;
+height:50px;
+border-radius: 3px;
+position: absolute;
+top:570px;
+	left: 35%;
+}
+.takehome a
+{font-size:20px;}
+
+.fivehundred
+{background:  url('../img/back.png')repeat-x}
+
+.fiveimage{
+	height:700px;
+	background:  url('../img/500.png') no-repeat;
+margin:50px 0}
+
+.back_sky
+{background-color: #9ED7D2;
+width: 100%}
+/*===========================
+Footer
+========================================================================== */
+footer {
+    padding: 20px 0;
+background-color: #323232 ;
+	color: white;
+	text-align: left;
+
+}
+
+footer a {
+    color: #2362a9;
+}
+ footer a:hover, a:focus {
+    color: #16becf;
+    text-decoration: none;
+}
+
+
+footer p {
+    color: #c7cacc;
+    font-size: 15px;
+	text-align: left
+}
+footer h5, h5 a {
+    color: #c7cacc;
+    font-size: 11px;
+	text-align: left;
+	margin-top:30px;
+	padding: 10px;
+
+}
+footer ul {
+    margin-top: 30px;
+}
+footer li {
+    float: left;
+    margin-right: 10%;
+    list-style: none;
+    font-weight: 400;
+	font-size: 16px;	
+/*	border: 1px solid white;
+*/	border-radius: 5px;
+	padding:10px 20px;
+
+}
+
+footer li:last-child {
+    margin-right: 0
+}
+
+  footer .links a {
+    list-style: none;
+    color: #ffffff;
+  
+    margin: 0; }
+    footer .links a::after {
+      content: "•";
+      padding: 0 0.4rem 0 0.8rem; }
+    footer .links a:last-child::after {
+      content: "";
+      padding: 0 0.4rem 0 0.8rem; }
+
+
+.contact_info {
+	width: auto;
+	text-align: center;
+  color: #c7cacc;
+}
+
+.padding{padding-left: 140px;}
+
+.contact_info ul li, a  {
+	display: inline;
+	padding: 20px;
+	font-size: 15px;
+	color:white;
+}
+
+
+footer .footer-nav  a {color:white;}
+footer .footer-nav a:hover, a:focus {
+    color: #16becf;
+	text-decoration: none;}
+
+
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Social_media
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+
+.social_media {
+	
+}
+.social_media span {
+	display: none
+}
+.facebook {
+	background: url("../img/facebook.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+.instagram {
+	background: url("../img/instagram.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+.twitter {
+	background: url("../img/twitter.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+.linkedin {
+	background: url("../img/linkedin.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+.facebook:hover {
+	background: url("../img/facebook_hover.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+.twitter:hover {
+	background: url("../img/twitter_hover.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+.linkedin:hover {
+	background: url("../img/linkedin_hover.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+
+.instagram:hover {
+	background: url("../img/instagram_hover.png") no-repeat;
+	width: 30px;
+	height: 30px;
+	display: block;
+}
+
+
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+privacy policy
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+.privacy{margin-top: 100px;
+	
+}
+
+.privacy h5{
+	margin-top: 40px;color:#296EB2;
+	
+}
+
+.privacy a {color: #2362a9}

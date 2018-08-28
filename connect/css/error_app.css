@@ -1,0 +1,31 @@
+.tryagain button 
+{background-color: #394454;
+width:500px;
+height:50px;
+border-radius: 3px;
+position: absolute;
+top:570px;
+left: 35%;
+font-size:20px;
+color: white;
+}
+
+.tryagain button:hover
+{
+background-color: white;
+color: #394454;
+cursor: pointer;
+} 
+
+.tryagain button.err500
+{
+top:680px;
+background-color: #39375f;
+}
+
+.tryagain button.err500:hover
+{
+background-color: white;
+color: #39375f;
+cursor: pointer;
+} 
